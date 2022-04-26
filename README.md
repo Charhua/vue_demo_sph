@@ -42,5 +42,11 @@ npm install
 
 
 
+### 附加
+
+项目根目录下dist_run文件夹为已打包项目，打开index.html即可直接运行。
+
+
+
 #### 有疑问可联系：trk12138@163.com by Charhua
 

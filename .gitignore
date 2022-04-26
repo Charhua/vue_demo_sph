@@ -1,7 +1,6 @@
 .DS_Store
 node_modules
 /dist
-/dist_第一次打包留存
 
 # local env files
 .env.local
