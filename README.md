@@ -39,7 +39,8 @@ npm install
 由于项目接口为尚硅谷后台接口，不排除接口失效可能性。为保证项目可视效果，部分失效接口数据可由mock模拟，具体查看：[Mock.js (mockjs.com)](http://mockjs.com/)。
 
 接口地址文档：https://www.aliyundrive.com/s/3HRuBq8VRc7 提取码: o21a
-PS:接口地址改为：http://gmall-h5-api.atguigu.cn
+
+接口地址改为：http://gmall-h5-api.atguigu.cn
 
 
 
