@@ -2,7 +2,6 @@
 <div>
 <!--  三级联动全局组件：导航-->
   <TypeNav></TypeNav>
-
   <ListContainer></ListContainer>
   <Recommend></Recommend>
   <Rank></Rank>
