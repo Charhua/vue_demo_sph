@@ -4,7 +4,7 @@ import nprogress from 'nprogress';
 import "nprogress/nprogress.css";
 import store from "@/store";
 export const requests=axios.create({
-    baseURL:'/api',
+    baseURL:'http://gmall-h5-api.atguigu.cn/api',
     timeout:5000
 })
 //请求拦截器
